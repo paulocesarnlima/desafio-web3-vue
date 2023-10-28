@@ -1,5 +1,5 @@
 <h1 align="center">VueJs + TailwindCSS</h1>
-<h3 align="center">3º Desafio Web 3 - Stack X</h3>
+<h3 align="center">Desafio 3 - Web 3 - Stack X</h3>
 
 
   
